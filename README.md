@@ -7,8 +7,8 @@
 - customer management system
 - Checkout Details
 - Reviews
-- Payement using Stripe Api or Paypall
-- Admin Site
+- Payment integrated system using Stripe Api and Paypal
+- Admin Site to manage client site.
 
 Home page
 ![project01](https://user-images.githubusercontent.com/36708180/105626388-ebf75800-5e37-11eb-989e-57152109a967.png)
