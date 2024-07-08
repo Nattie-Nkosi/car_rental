@@ -1,8 +1,16 @@
 # Car Rental System
 
-- A car Rental System made in HTML, CSS, JavaScript, Boostrap3, AJax, and PHP with MySQL.
+## Project Description
+
+During my final year, I successfully managed a group called Fast Six, overseeing the development of a Car Rental System. Key accomplishments and responsibilities included:
+
+- Steered the team in executing the project while adhering to Agile Software Development Life Cycle methodologies, ensuring a smooth and efficient development process.
+- Utilized a variety of programming languages, including JavaScript, PHP, and SQL, to create a robust and user-friendly car rental system.
+- Designed and implemented a database system to securely store and retrieve data as needed, enabling efficient and accurate report generation.
+- Leveraged my leadership and project management skills to guide the team in delivering a high-quality software solution within the given timeframe.
 
 ## Core Features
+
 - Registration system
 - customer management system
 - Checkout Details
@@ -31,4 +39,8 @@ checkout page
 order summery page
 ![project07](https://user-images.githubusercontent.com/36708180/105626922-00d5ea80-5e3c-11eb-8d20-d37fdb3c1dc5.png)
 
+## License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Feel free to adjust the contents of the `README.md` to better fit your project specifics. Once you have both the `LICENSE` and `README.md` files ready, add them to the root directory of your GitHub repository. This will ensure that your project is properly licensed and documented.
