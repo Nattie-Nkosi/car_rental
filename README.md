@@ -42,5 +42,3 @@ order summery page
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Feel free to adjust the contents of the `README.md` to better fit your project specifics. Once you have both the `LICENSE` and `README.md` files ready, add them to the root directory of your GitHub repository. This will ensure that your project is properly licensed and documented.
